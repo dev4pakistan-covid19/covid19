@@ -4,10 +4,11 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The covid19 package provides data in csv format from the Johns Hopkins COVID19 Dashboard for the Novel Coronavirus Epidemic(COVID-19). The data is pulled daily from the Johns Hopkins University Centre for Systems Science and Engineering [repository](https://github.com/CSSEGISandData/COVID-19)
+Code provides data in csv format from the Johns Hopkins COVID19 Dashboard for the Novel Coronavirus Epidemic(COVID-19). The data is pulled daily from the Johns Hopkins University Centre for Systems Science and Engineering [repository](https://github.com/CSSEGISandData/COVID-19)
 
+Furthermore, repo will have maps and other code+analysis 
 
-## Data Set
+## DATASET(s)
 
 The following is a description of the variables in the covid19 dataset
 
