@@ -24,7 +24,7 @@ The following is a description of the variables in the covid19 dataset
 | `DEATHS` | number of deaths due to Corona to date |
 
 
-## Data Sources
+## DATA SOURCES
 
 The raw data was pulled and compiled by the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) from the following :
 
@@ -42,7 +42,7 @@ The raw data was pulled and compiled by the Johns Hopkins University Center for 
 * European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases <br>
 
 
-## Acknowledgements
+## ACKNOWLEDGEMENTS
 
 - [Usman Khaliq](https://github.com/ottoman91/) for his corona virus data collection [package](https://github.com/ottoman91/covid19) + inspiration.
 
